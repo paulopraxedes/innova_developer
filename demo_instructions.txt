@@ -1,0 +1,5 @@
+1. Fork this project and then import it to your SN instance (if you don't have it, request one on Developer site)
+2. To import this project as application
+  Go to Studio
+  Click on Import from Source Control
+  
