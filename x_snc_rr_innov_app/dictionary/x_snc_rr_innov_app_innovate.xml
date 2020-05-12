@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Innovate" max_length="40" name="x_snc_rr_innov_app_innovate" sizeclass="1" type="collection">
+    <element label="Innovate" max_length="40" name="x_snc_rr_innov_app_innovate" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="cost" label="Idea type" max_length="40" name="idea_type" type="choice">
             <choice>
