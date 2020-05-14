@@ -28,6 +28,20 @@
             <sys_updated_by>servicenow.rafael</sys_updated_by>
             <sys_updated_on>2020-04-08 14:01:15</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-13 01:03:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8eeb24bcdb385810527cfae4e29619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_rr_innov_app_innovate" name="x_snc_rr_innov_app_innovate" sys_domain="global" view="Default view">2e2e036ddb4cdc5036036a3b139619c1</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_rr_innov_app_innovate" sys_domain="global" view="Default view">42eb24bcdb385810527cfae4e29619a4</sys_ui_section>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-13 01:03:59</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_rr_innov_app_innovate</name>
             <roles/>

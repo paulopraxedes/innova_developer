@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Innovation: Create New Innovation Case</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:35:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cc1001f4dbb85810527cfae4e29619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovation: Create New Innovation Case</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_test_cc1001f4dbb85810527cfae4e29619e0</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:35:45</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=cc1001f4dbb85810527cfae4e29619e0"/>
+</record_update>

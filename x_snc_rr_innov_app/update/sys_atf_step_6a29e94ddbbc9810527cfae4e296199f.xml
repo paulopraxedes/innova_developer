@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Impersonate the user: Bette Barcelona with user Id: bette.barcelona
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description>
+        <display_name>Impersonate</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 00:10:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6a29e94ddbbc9810527cfae4e296199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_6a29e94ddbbc9810527cfae4e296199f</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 00:10:29</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: Create New Innovation Case">cc1001f4dbb85810527cfae4e29619e0</test>
+        <timeout/>
+        <warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=6a29e94ddbbc9810527cfae4e296199f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>6a29e94ddbbc9810527cfae4e296199f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 00:10:29</sys_created_on>
+        <sys_id>dc49618ddbbc9810527cfae4e2961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 00:10:29</sys_updated_on>
+        <value>e6826bf03710200044e0bfc8bcbe5deb</value>
+        <variable display_value="">586e2c4253e0220002c6435723dc3415</variable>
+    </sys_variable_value>
+</record_update>

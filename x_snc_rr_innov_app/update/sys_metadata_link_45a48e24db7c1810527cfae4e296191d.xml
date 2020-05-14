@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>10fafa3467103200e9b7808bd485efc4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="Analytics" name="Analytics">63b4e00567232200e9b7808bd485ef10</group>
+        <inherits>true</inherits>
+        <role display_value="pa_admin" name="pa_admin">a4cc30b3bf101100b96dac808c073918</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-11 13:50:35</sys_created_on>
+        <sys_id>10fafa3467103200e9b7808bd485efc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-11 13:50:35</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-12 12:53:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>45a48e24db7c1810527cfae4e296191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2017-01-11 05:50:35</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_metadata_link_45a48e24db7c1810527cfae4e296191d</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-12 12:53:11</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

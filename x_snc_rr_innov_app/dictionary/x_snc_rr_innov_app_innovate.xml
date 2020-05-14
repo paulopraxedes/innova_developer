@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Innovate" max_length="40" name="x_snc_rr_innov_app_innovate" type="collection">
+    <element audit="true" label="Innovate" max_length="40" name="x_snc_rr_innov_app_innovate" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="cost" label="Idea type" max_length="40" name="idea_type" type="choice">
             <choice>
@@ -10,6 +10,15 @@
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" max_length="125" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_comments" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contact Type" max_length="40" name="u_contact_type" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Email" sequence="0" value="email"/>
+                <element inactive_on_update="false" label="Desk" sequence="1" value="desk"/>
+                <element inactive_on_update="false" label="Portal" sequence="2" value="portal"/>
+                <element inactive_on_update="false" label="External" sequence="3" value="external"/>
+            </choice>
+        </element>
         <element label="Idea Implemented" max_length="40" name="u_idea_implemented" type="boolean"/>
     </element>
 </database>

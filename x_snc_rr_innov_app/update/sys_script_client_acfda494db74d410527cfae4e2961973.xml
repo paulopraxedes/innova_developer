@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_contact_type</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>SN - Set Contact Type</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+    if (g_form.isNewRecord()) {
+        g_form.setValue('u_contact_type', 'desk');
+        g_form.showFieldMsg('u_contact_type', 'Type defined by client script', 'info');
+    }
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-11 11:56:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>acfda494db74d410527cfae4e2961973</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SN - Set Contact Type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_script_client_acfda494db74d410527cfae4e2961973</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-11 12:21:23</sys_updated_on>
+        <table>x_snc_rr_innov_app_innovate</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

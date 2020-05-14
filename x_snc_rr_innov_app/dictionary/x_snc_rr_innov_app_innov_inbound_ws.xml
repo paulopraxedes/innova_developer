@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Innovate Inbound WS" max_length="40" name="x_snc_rr_innov_app_innov_inbound_ws" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_idea_type" label="Idea Type" max_length="40" name="u_idea_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>

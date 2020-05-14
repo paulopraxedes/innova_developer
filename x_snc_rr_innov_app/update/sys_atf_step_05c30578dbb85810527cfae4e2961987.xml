@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create and impersonate user with first name 'Innovate' and last name 'End User'
+With roles: x_snc_rr_innov_app.employee, snc_external</description>
+        <display_name>Create a User</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>05c30578dbb85810527cfae4e2961987</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_05c30578dbb85810527cfae4e2961987</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 00:11:06</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: Create New Innovation Case">cc1001f4dbb85810527cfae4e29619e0</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=05c30578dbb85810527cfae4e2961987"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>05c30578dbb85810527cfae4e2961987</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>33f3c9f8dbb85810527cfae4e2961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <value>Innovate</value>
+        <variable display_value="">1985e0ceff2433008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>05c30578dbb85810527cfae4e2961987</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>7ff3c9f8dbb85810527cfae4e2961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">98c44875ffa033008d3f5d9ad53bf1fa</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>05c30578dbb85810527cfae4e2961987</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>7ff3c9f8dbb85810527cfae4e2961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <value>End User</value>
+        <variable display_value="">6f69fc4aff6433008d3f5d9ad53bf18c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>05c30578dbb85810527cfae4e2961987</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>bbf3c9f8dbb85810527cfae4e2961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <value/>
+        <variable display_value="">b27b2b29ff6033008d3f5d9ad53bf164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>05c30578dbb85810527cfae4e2961987</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>f7f3c9f8dbb85810527cfae4e2961928</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 00:11:06</sys_updated_on>
+        <value>940ba702933002009c8579b4f47ffbe2,6654fa0ddb445c5036036a3b13961902</value>
+        <variable display_value="">8c07aba5ff6033008d3f5d9ad53bf13b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=05c30578dbb85810527cfae4e2961987"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>first_name</field>
+        <id>05c30578dbb85810527cfae4e2961987</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>3bf3c9f8dbb85810527cfae4e2961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table>
+        <value>Innovate</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>groups</field>
+        <id>05c30578dbb85810527cfae4e2961987</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>7bf3c5f8dbb85810527cfae4e29619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>last_name</field>
+        <id>05c30578dbb85810527cfae4e2961987</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>b3f3c5f8dbb85810527cfae4e29619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table>
+        <value>End User</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>roles</field>
+        <id>05c30578dbb85810527cfae4e2961987</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-13 02:49:13</sys_created_on>
+        <sys_id>fbf3c9f8dbb85810527cfae4e2961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-13 02:49:13</sys_updated_on>
+        <table>var__m_atf_input_variable_d9bc5f21ff6033008d3f5d9ad53bf12d</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

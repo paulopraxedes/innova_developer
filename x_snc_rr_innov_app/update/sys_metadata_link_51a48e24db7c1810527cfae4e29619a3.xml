@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5b74c3d413e1e300460cd8228144b0fd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="Service Desk" name="Service Desk">d625dccec0a8016700a222a0f7900d06</group>
+        <inherits>true</inherits>
+        <role display_value="u_infinity_support" name="u_infinity_support">27c3439413e1e300460cd8228144b077</role>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2018-10-30 17:07:18</sys_created_on>
+        <sys_id>5b74c3d413e1e300460cd8228144b0fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2018-10-30 17:07:18</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-12 12:53:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>51a48e24db7c1810527cfae4e29619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-10-30 10:07:18</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_metadata_link_51a48e24db7c1810527cfae4e29619a3</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-12 12:53:12</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>
