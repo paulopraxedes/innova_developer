@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_rr_innov_app_innovate">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_decision_innovation" table="x_snc_rr_innov_app_innovate">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
-        <audit>true</audit>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Decision about Innovation</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,12 +22,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_decision_innovation</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_snc_rr_innov_app_innovate</name>
@@ -42,23 +42,23 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>2</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>rafael.ramos</sys_created_by>
-        <sys_created_on>2020-04-06 22:55:03</sys_created_on>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-15 14:21:06</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>3e338ea0db7c1810527cfae4e2961956</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>x_snc_rr_innov_app_innovate</sys_name>
+        <sys_id>46857929dbf05c10527cfae4e2961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decision about Innovation</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_rr_innov_app_innovate_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-05-14 10:31:11</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_rr_innov_app_innovate_u_decision_innovation</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:21:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

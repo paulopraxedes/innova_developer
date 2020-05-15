@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <display_name>Create email.read event</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Create email.read event</notes>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Create email.read event">f96b5e49dbb0d810527cfae4e2961947</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 04:02:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6a2e124ddbb0d810527cfae4e296196e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Create email.read event</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_6a2e124ddbb0d810527cfae4e296196e</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 21:58:01</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: New Case Open By Email">8aee7d09db30d810527cfae4e29619cf</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=6a2e124ddbb0d810527cfae4e296196e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>6a2e124ddbb0d810527cfae4e296196e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 04:02:14</sys_created_on>
+        <sys_id>8f4e964ddbb0d810527cfae4e29619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 04:02:14</sys_updated_on>
+        <value/>
+        <variable display_value="">232c9a89dbb0d810527cfae4e2961985</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=6a2e124ddbb0d810527cfae4e296196e"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>u_email</field>
+        <id>6a2e124ddbb0d810527cfae4e296196e</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 04:02:14</sys_created_on>
+        <sys_id>0b4e964ddbb0d810527cfae4e29619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 04:02:14</sys_updated_on>
+        <table>var__m_atf_input_variable_f96b5e49dbb0d810527cfae4e2961947</table>
+        <value>{{step['ba2fb949db30d810527cfae4e29619e6'].output_email_record}}</value>
+    </sys_element_mapping>
+</record_update>

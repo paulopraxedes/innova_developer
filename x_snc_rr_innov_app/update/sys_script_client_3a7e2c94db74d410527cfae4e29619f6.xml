@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
@@ -23,7 +23,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3a7e2c94db74d410527cfae4e29619f6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>SN - Set Contact Type</sys_name>
         <sys_overrides/>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_script_client_3a7e2c94db74d410527cfae4e29619f6</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>
-        <sys_updated_on>2020-05-11 11:58:16</sys_updated_on>
+        <sys_updated_on>2020-05-14 00:39:25</sys_updated_on>
         <table>x_snc_rr_innov_app_innovate</table>
         <type>onSubmit</type>
         <ui_type>1</ui_type>

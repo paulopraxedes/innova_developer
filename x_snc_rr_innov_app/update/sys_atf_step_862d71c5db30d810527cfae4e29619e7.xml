@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+Short description = Innovation testing
+and Description = Innovation description&#13;
+line 2&#13;
+line 3</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:38:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>862d71c5db30d810527cfae4e29619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_862d71c5db30d810527cfae4e29619e7</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:38:26</sys_updated_on>
+        <table>x_snc_rr_innov_app_innovate</table>
+        <test display_value="Innovation: New Innovation Case By User From Form">cc1001f4dbb85810527cfae4e29619e0</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=862d71c5db30d810527cfae4e29619e7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>862d71c5db30d810527cfae4e29619e7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:38:26</sys_created_on>
+        <sys_id>286d39c5db30d810527cfae4e2961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:38:26</sys_updated_on>
+        <value>x_snc_rr_innov_app_innovate</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>862d71c5db30d810527cfae4e29619e7</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:38:26</sys_created_on>
+        <sys_id>646d39c5db30d810527cfae4e2961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:38:26</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>862d71c5db30d810527cfae4e29619e7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:38:26</sys_created_on>
+        <sys_id>e86d39c5db30d810527cfae4e2961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:38:26</sys_updated_on>
+        <value>short_description=Innovation testing^description=Innovation description&#13;
+line 2&#13;
+line 3^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+</record_update>

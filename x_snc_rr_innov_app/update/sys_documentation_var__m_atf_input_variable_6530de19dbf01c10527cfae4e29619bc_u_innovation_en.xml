@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_innovation" label="Innovation" language="en" table="var__m_atf_input_variable_6530de19dbf01c10527cfae4e29619bc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_innovation</element>
+            <help/>
+            <hint/>
+            <label>Innovation</label>
+            <language>en</language>
+            <name>var__m_atf_input_variable_6530de19dbf01c10527cfae4e29619bc</name>
+            <plural>Innovation</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-14 21:50:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e0b2ded9dbf01c10527cfae4e2961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Innovation</sys_name>
+            <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+            <sys_update_name>sys_documentation_var__m_atf_input_variable_6530de19dbf01c10527cfae4e29619bc_u_innovation_en</sys_update_name>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-14 21:50:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

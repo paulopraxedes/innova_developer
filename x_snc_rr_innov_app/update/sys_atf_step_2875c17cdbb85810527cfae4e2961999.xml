@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <copied_from/>
         <description>Insert a record into 'x_snc_rr_innov_app_innovate' with the following values:
 Idea type = Cost Savings
@@ -12,7 +12,7 @@ Confirm the record was successfully inserted</description>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>3</order>
+        <order>6</order>
         <snapshot/>
         <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
@@ -20,7 +20,7 @@ Confirm the record was successfully inserted</description>
         <sys_created_on>2020-05-13 02:57:45</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>2875c17cdbb85810527cfae4e2961999</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Record Insert</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
@@ -28,9 +28,9 @@ Confirm the record was successfully inserted</description>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_atf_step_2875c17cdbb85810527cfae4e2961999</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>
-        <sys_updated_on>2020-05-14 00:10:29</sys_updated_on>
+        <sys_updated_on>2020-05-14 01:38:58</sys_updated_on>
         <table>x_snc_rr_innov_app_innovate</table>
-        <test display_value="Innovation: Create New Innovation Case">cc1001f4dbb85810527cfae4e29619e0</test>
+        <test display_value="Innovation: New Innovation Case By User From Form">cc1001f4dbb85810527cfae4e29619e0</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_decision_innovation" table="x_snc_rr_innov_app_innovate" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_decision_innovation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accepted</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>0</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-15 14:21:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2857929dbf05c10527cfae4e2961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:21:07</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_decision_innovation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ajusted and Accepted</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>1</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-15 14:21:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6857929dbf05c10527cfae4e2961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:21:07</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_decision_innovation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refused</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>3</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-15 14:21:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a857929dbf05c10527cfae4e2961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:21:07</sys_updated_on>
+            <value>30</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_decision_innovation</element>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-15 14:21:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1e857929dbf05c10527cfae4e2961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_decision_innovation</sys_name>
+            <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rr_innov_app_innovate_u_decision_innovation</sys_update_name>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-15 14:21:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
