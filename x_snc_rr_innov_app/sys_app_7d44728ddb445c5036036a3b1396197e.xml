@@ -40,7 +40,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>innovatelogo.png</file_name>
         <hash>6bfaefda53f201b0bd306ec862d542adb33b5089199a65295428dea9eda1d4ad</hash>
         <image_height/>

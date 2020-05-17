@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>All Innovation Cases</description>
+        <group_by>idea_type</group_by>
+        <instance_relative_url_qc/>
+        <name>All Innovation Cases</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-15 14:08:28</sys_created_on>
+        <sys_id>09a2bd25dbf05c10527cfae4e296190b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>All Innovation Cases</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_data_item_09a2bd25dbf05c10527cfae4e296190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 20:51:47</sys_updated_on>
+        <table>x_snc_rr_innov_app_innovate</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=09a2bd25dbf05c10527cfae4e296190b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</application>
+        <file_path/>
+        <instance_id>29374c61db5ab7409df22f17d49619c0</instance_id>
+        <instance_name>dev88752</instance_name>
+        <name>sys_sg_data_item_09a2bd25dbf05c10527cfae4e296190b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>All Innovation Cases</description><group_by>idea_type</group_by><instance_relative_url_qc/><name>All Innovation Cases</name><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>servicenow.rafael</sys_created_by><sys_created_on>2020-05-15 14:08:28</sys_created_on><sys_id>09a2bd25dbf05c10527cfae4e296190b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>All Innovation Cases</sys_name><sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package><sys_policy/><sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope><sys_update_name>sys_sg_data_item_09a2bd25dbf05c10527cfae4e296190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 20:51:47</sys_updated_on><table>x_snc_rr_innov_app_innovate</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=09a2bd25dbf05c10527cfae4e296190b"/></record_update>]]></payload>
+        <payload_hash>-1447712428</payload_hash>
+        <record_name>All Innovation Cases</record_name>
+        <reverted_from/>
+        <source>e9cdcbe51bb0101079b9ed3abc4bcb45</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 20:51:47</sys_created_on>
+        <sys_id>05fe87e91bb0101079b9ed3abc4bcb83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1721a1b79b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 20:51:47</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>8dfe87e960b01010d982fa8acf272782</update_guid>
+        <update_guid_history>8dfe87e960b01010d982fa8acf272782:-1447712428,28cd47a920b01010e7bf64bd1b500281:-589397152</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 23:36:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>08d9c3655c9149e0821471bdfb91c400</sys_id>
+        <sys_metadata>09a2bd25dbf05c10527cfae4e296190b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Innovation Cases</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_09a2bd25dbf05c10527cfae4e296190b</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_09a2bd25dbf05c10527cfae4e296190b">05fe87e91bb0101079b9ed3abc4bcb83</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 23:36:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

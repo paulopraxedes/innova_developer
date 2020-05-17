@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Innovation">c85bc729db785c10527cfae4e2961993</applet_launcher>
+        <order>30</order>
+        <section display_value="New Case">5304dbad1bb0101079b9ed3abc4bcbdf</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 21:14:03</sys_created_on>
+        <sys_id>9304dbad1bb0101079b9ed3abc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_9304dbad1bb0101079b9ed3abc4bcbe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 21:14:03</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</application>
+        <file_path/>
+        <instance_id>29374c61db5ab7409df22f17d49619c0</instance_id>
+        <instance_name>dev88752</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_9304dbad1bb0101079b9ed3abc4bcbe1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Innovation">c85bc729db785c10527cfae4e2961993</applet_launcher><order>30</order><section display_value="New Case">5304dbad1bb0101079b9ed3abc4bcbdf</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-15 21:14:03</sys_created_on><sys_id>9304dbad1bb0101079b9ed3abc4bcbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package><sys_policy/><sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_9304dbad1bb0101079b9ed3abc4bcbe1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-15 21:14:03</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-224377294</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e9cdcbe51bb0101079b9ed3abc4bcb45</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 21:14:03</sys_created_on>
+        <sys_id>1b04dbad1bb0101079b9ed3abc4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1721a2fdc420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 21:14:03</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>5304dbad11b01010c1f3a5138bebfae2</update_guid>
+        <update_guid_history>5304dbad11b01010c1f3a5138bebfae2:-224377294</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 21:32:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>25507f00b8c441349ee49d5f14bf7364</sys_id>
+        <sys_metadata>9304dbad1bb0101079b9ed3abc4bcbe1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_9304dbad1bb0101079b9ed3abc4bcbe1</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_9304dbad1bb0101079b9ed3abc4bcbe1">1b04dbad1bb0101079b9ed3abc4bcbe2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 21:32:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

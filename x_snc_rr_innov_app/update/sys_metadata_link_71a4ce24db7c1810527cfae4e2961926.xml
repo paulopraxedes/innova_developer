@@ -20,13 +20,11 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>servicenow.rafael</sys_created_by>
         <sys_created_on>2020-05-12 12:53:14</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>71a4ce24db7c1810527cfae4e2961926</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Created 2018-08-20 12:50:56</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_metadata_link_71a4ce24db7c1810527cfae4e2961926</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>

@@ -3,7 +3,6 @@
         <active>true</active>
         <application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application>
         <assessment/>
-        <content_page/>
         <device_type/>
         <filter/>
         <hint>User customized web service</hint>
@@ -19,12 +18,9 @@
         <query>v_ws_editor.do?sysparm_query=name=x_snc_rr_innov_app_innov_inbound_ws</query>
         <report/>
         <roles/>
-        <survey/>
-        <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>servicenow.rafael</sys_created_by>
         <sys_created_on>2020-05-13 01:53:42</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1647303cdb785810527cfae4e29619f4</sys_id>
@@ -33,7 +29,6 @@
         <sys_overrides/>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_app_module_1647303cdb785810527cfae4e29619f4</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>

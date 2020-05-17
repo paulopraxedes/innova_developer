@@ -5,22 +5,19 @@
         <description/>
         <display_name>Create email.read event - global</display_name>
         <inputs/>
-        <inputs/>
         <mugshots_cache_json/>
         <notes/>
         <order>2</order>
         <snapshot/>
-        <step_config display_value="Create email.read event - global">86896289dbf0d810527cfae4e296190e</step_config>
+        <step_config display_value="">86896289dbf0d810527cfae4e296190e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>servicenow.rafael</sys_created_by>
         <sys_created_on>2020-05-14 04:53:53</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>a01ae2c9dbf0d810527cfae4e2961942</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Create email.read event - global</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_atf_step_a01ae2c9dbf0d810527cfae4e2961942</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>
@@ -45,17 +42,4 @@
         <value/>
         <variable display_value="">85a9aa89dbf0d810527cfae4e2961928</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=a01ae2c9dbf0d810527cfae4e2961942"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_email</field>
-        <id>a01ae2c9dbf0d810527cfae4e2961942</id>
-        <sys_created_by>servicenow.rafael</sys_created_by>
-        <sys_created_on>2020-05-14 04:53:53</sys_created_on>
-        <sys_id>f31a26c9dbf0d810527cfae4e2961921</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>servicenow.rafael</sys_updated_by>
-        <sys_updated_on>2020-05-14 04:53:53</sys_updated_on>
-        <table>var__m_atf_input_variable_86896289dbf0d810527cfae4e296190e</table>
-        <value>{{step['ba2fb949db30d810527cfae4e29619e6'].output_email_record}}</value>
-    </sys_element_mapping>
 </record_update>

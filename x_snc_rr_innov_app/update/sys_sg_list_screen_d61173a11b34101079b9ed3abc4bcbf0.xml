@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Cost Saving Cases</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">961173a11b34101079b9ed3abc4bcbeb</icon>
+        <name>Cost Saving Cases</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 23:20:58</sys_created_on>
+        <sys_id>d61173a11b34101079b9ed3abc4bcbf0</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Cost Saving Cases</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_list_screen_d61173a11b34101079b9ed3abc4bcbf0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 23:34:02</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d61173a11b34101079b9ed3abc4bcbf0"/>
+</record_update>

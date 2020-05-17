@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Expected Decision</name>
+        <parent>09a2bd25dbf05c10527cfae4e296190b</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-15 14:26:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>15b67929dbf05c10527cfae4e296197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expected Decision</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_15b67929dbf05c10527cfae4e296197c</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:26:14</sys_updated_on>
+        <type>date</type>
+    </sys_sg_item_parameter>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</application>
+        <file_path/>
+        <instance_id>29374c61db5ab7409df22f17d49619c0</instance_id>
+        <instance_name>dev88752</instance_name>
+        <name>sys_sg_item_parameter_15b67929dbf05c10527cfae4e296197c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Expected Decision</name>
+        <parent>09a2bd25dbf05c10527cfae4e296190b</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-15 14:26:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>15b67929dbf05c10527cfae4e296197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expected Decision</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_15b67929dbf05c10527cfae4e296197c</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:26:14</sys_updated_on>
+        <type>date</type>
+    </sys_sg_item_parameter>
+</record_update>]]></payload>
+        <payload_hash>-989297554</payload_hash>
+        <record_name>Expected Decision</record_name>
+        <reverted_from/>
+        <source>8bad4f691bb0101079b9ed3abc4bcb59</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 20:46:34</sys_created_on>
+        <sys_id>a4cd47a91bb0101079b9ed3abc4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1721a16b1270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 20:46:34</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>64cd47a9beb010100354acf9de3febab</update_guid>
+        <update_guid_history>64cd47a9beb010100354acf9de3febab:-989297554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 20:51:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>4f0842e0acd7448690eb2d651c3d0469</sys_id>
+        <sys_metadata>15b67929dbf05c10527cfae4e296197c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expected Decision</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_15b67929dbf05c10527cfae4e296197c</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_15b67929dbf05c10527cfae4e296197c">a4cd47a91bb0101079b9ed3abc4bcbab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 20:51:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
