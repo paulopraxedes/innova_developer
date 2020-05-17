@@ -5,11 +5,13 @@
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 21:45:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ebfadfa11bf0101079b9ed3abc4bcb6a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>aab913e11bf0101079b9ed3abc4bcb48</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_sg_action_param_map_ebfadfa11bf0101079b9ed3abc4bcb6a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

@@ -5,6 +5,7 @@
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 21:11:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2283dbad1bb0101079b9ed3abc4bcbdd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>fSkWkFt9lGY:APA91bHWhaveAvYmGMmdyQbDet7fjaUn0Wtt0-_EMxhZoQTZPzRF2tC_F42pRR0LCFn378yeU9GCXPmYbcl9zJZSsJngkR5BZ7qDas0jQYIL_AQ-H6CQRGbPXTaJQbXfxCCG3N5PrHg-</sys_name>
@@ -12,6 +13,7 @@
         <sys_policy/>
         <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
         <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_push_notif_app_install_2283dbad1bb0101079b9ed3abc4bcbdd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

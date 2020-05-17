@@ -72,6 +72,7 @@
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 20:51:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
         <sys_id>4f0842e0acd7448690eb2d651c3d0469</sys_id>
         <sys_metadata>15b67929dbf05c10527cfae4e296197c</sys_metadata>
@@ -80,6 +81,7 @@
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_parent/>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
         <sys_update_name>sys_sg_item_parameter_15b67929dbf05c10527cfae4e296197c</sys_update_name>

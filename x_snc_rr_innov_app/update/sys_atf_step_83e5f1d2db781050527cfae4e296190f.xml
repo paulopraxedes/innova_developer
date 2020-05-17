@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Assert a response payload element '/result/sys_target_sys_id/value' is not empty</description>
+        <display_name>Assert JSON Response Payload Element</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Assert JSON Response Payload Element">afc114199f132200ef4afa7dc67fcf64</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:19:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>83e5f1d2db781050527cfae4e296190f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Assert JSON Response Payload Element</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_83e5f1d2db781050527cfae4e296190f</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:20:40</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: New case by WS">7f133512db781050527cfae4e296198d</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=83e5f1d2db781050527cfae4e296190f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>83e5f1d2db781050527cfae4e296190f</document_key>
+        <order>120</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:19:39</sys_created_on>
+        <sys_id>6b363116db781050527cfae4e29619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:19:39</sys_updated_on>
+        <value/>
+        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>83e5f1d2db781050527cfae4e296190f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:19:39</sys_created_on>
+        <sys_id>77363116db781050527cfae4e29619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:19:39</sys_updated_on>
+        <value>/result/sys_target_sys_id/value</value>
+        <variable display_value="">5a9258199f132200ef4afa7dc67fcfb4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>83e5f1d2db781050527cfae4e296190f</document_key>
+        <order>110</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:19:39</sys_created_on>
+        <sys_id>b3363116db781050527cfae4e29619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:19:39</sys_updated_on>
+        <value>exists</value>
+        <variable display_value="">2db298199f132200ef4afa7dc67fcfbc</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=83e5f1d2db781050527cfae4e296190f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>element_name</field>
+        <id>83e5f1d2db781050527cfae4e296190f</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:19:39</sys_created_on>
+        <sys_id>e7363116db781050527cfae4e29619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:19:39</sys_updated_on>
+        <table>var__m_atf_input_variable_afc114199f132200ef4afa7dc67fcf64</table>
+        <value>/result/sys_target_sys_id/value</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>element_value</field>
+        <id>83e5f1d2db781050527cfae4e296190f</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:19:39</sys_created_on>
+        <sys_id>27363116db781050527cfae4e29619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:19:39</sys_updated_on>
+        <table>var__m_atf_input_variable_afc114199f132200ef4afa7dc67fcf64</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

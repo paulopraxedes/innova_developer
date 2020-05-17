@@ -18,6 +18,8 @@
         <external_browser>false</external_browser>
         <failure_message>Sorry!!! Unable to create your Innovation case.</failure_message>
         <field_name/>
+        <hide_buttons/>
+        <hide_fields/>
         <jump_to_previous>false</jump_to_previous>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
@@ -26,6 +28,9 @@
         <mail_content/>
         <mail_subject/>
         <name>New Case</name>
+        <offline>false</offline>
+        <offline_template_field/>
+        <offline_template_field_table/>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
@@ -34,7 +39,9 @@
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
         <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>
+        <show_buttons/>
         <show_confirmation>false</show_confirmation>
+        <show_fields/>
         <show_refresh_on_previous>true</show_refresh_on_previous>
         <show_signature>false</show_signature>
         <sms/>
@@ -42,11 +49,13 @@
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 21:26:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>88a61f211bf0101079b9ed3abc4bcb56</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>New Case</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_sg_button_88a61f211bf0101079b9ed3abc4bcb56</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
@@ -56,6 +65,6 @@
         <type>write_back</type>
         <use_overlay>false</use_overlay>
         <write_back_action_item display_value="New Case">547593ad1bb0101079b9ed3abc4bcb39</write_back_action_item>
+        <zombified_screens/>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=88a61f211bf0101079b9ed3abc4bcb56"/>
 </record_update>

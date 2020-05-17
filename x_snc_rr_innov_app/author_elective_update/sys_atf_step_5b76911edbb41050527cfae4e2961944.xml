@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <display_name>Wait 1 minute</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>Wait 1 minute to go to next step.</notes>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Wait 1 minute">6de555dadbb41050527cfae4e29619dc</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 20:01:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5b76911edbb41050527cfae4e2961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wait 1 minute</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_5b76911edbb41050527cfae4e2961944</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 20:01:45</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: New Case Open By Email">8aee7d09db30d810527cfae4e29619cf</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=5b76911edbb41050527cfae4e2961944"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</application>
+        <file_path/>
+        <instance_id>ff754588dbf0fa00a4e1fba8bf9619c2</instance_id>
+        <instance_name>itomramos</instance_name>
+        <name>sys_atf_step_5b76911edbb41050527cfae4e2961944</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><display_name>Wait 1 minute</display_name><inputs/><mugshots_cache_json/><notes>Wait 1 minute to go to next step.</notes><order>4</order><snapshot/><step_config display_value="Wait 1 minute">6de555dadbb41050527cfae4e29619dc</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>servicenow.rafael</sys_created_by><sys_created_on>2020-05-17 20:01:45</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>5b76911edbb41050527cfae4e2961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Wait 1 minute</sys_name><sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope><sys_update_name>sys_atf_step_5b76911edbb41050527cfae4e2961944</sys_update_name><sys_updated_by>servicenow.rafael</sys_updated_by><sys_updated_on>2020-05-17 20:01:45</sys_updated_on><table/><test display_value="Innovation: New Case Open By Email">8aee7d09db30d810527cfae4e29619cf</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=5b76911edbb41050527cfae4e2961944"/></record_update>]]></payload>
+        <payload_hash>1253682882</payload_hash>
+        <record_name>Wait 1 minute</record_name>
+        <reverted_from/>
+        <source>73ffc1d2dbb41050527cfae4e29619e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 20:01:46</sys_created_on>
+        <sys_id>f3a6551edbb41050527cfae4e2961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172243a65220000001</sys_recorded_at>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 20:01:46</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>fba6551e3cb41050909a3a3edacf8006</update_guid>
+        <update_guid_history>fba6551e3cb41050909a3a3edacf8006:1253682882</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 20:26:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>358ffb4a55cc4b0a9a06924a5fc1fa11</sys_id>
+        <sys_metadata>5b76911edbb41050527cfae4e2961944</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wait 1 minute</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
+        <sys_update_name>sys_atf_step_5b76911edbb41050527cfae4e2961944</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_5b76911edbb41050527cfae4e2961944">f3a6551edbb41050527cfae4e2961907</sys_update_version>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 20:26:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

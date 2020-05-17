@@ -74,30 +74,37 @@
 //      stepResult.setFailed();
 //
 (function executeStep(inputs, outputs, stepResult, timeout) {
-    var gr_innov = new GlideRecord("x_snc_rr_innov_app_innovate");
-    if (gr_innov.get(inputs.u_innovation)) {
-        setResult.setOutputMessage(gr_innov.number);
 
+    var grSysEmail = new GlideRecord('sys_email');
+    if (grSysEmail.get(inputs.u_innovation)) {
+
+        var gr_innov = new GlideRecord("x_snc_rr_innov_app_innovate");
+        if (gr_innov.get(grSysEmail.instance)) {
+            stepResult.setOutputMessage(gr_innov.number);
+
+        }
     }
 
     //				setResult.setOutputMessage('Tabela '+inputs.u_innovation.getTableName());
-    setResult.setOutputMessage('ID ' + inputs.u_innovation);
-    setResult.setSuccess();
+   // setResult.setOutputMessage('ID ' + inputs.u_innovation);
+    stepResult.setSuccess();
 }(inputs, outputs, stepResult, timeout));]]></step_execution_generator>
         <sys_class_name>sys_atf_step_config</sys_class_name>
         <sys_created_by>servicenow.rafael</sys_created_by>
         <sys_created_on>2020-05-14 21:46:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6530de19dbf01c10527cfae4e29619bc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Get Innovation Number</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_atf_step_config_6530de19dbf01c10527cfae4e29619bc</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>
-        <sys_updated_on>2020-05-14 22:18:54</sys_updated_on>
+        <sys_updated_on>2020-05-17 21:25:01</sys_updated_on>
         <template_reminder>Get Innovation Number</template_reminder>
-        <type display_value="Test Step" name="sys_atf_step">db67e52c1b34101079b9ed3abc4bcb36</type>
+        <type display_value="Test Step" name="sys_atf_step">fdc1514413b03200b10d3d7ed144b0de</type>
         <wizard_redirect/>
     </sys_atf_step_config>
     <sys_translated_text action="delete_multiple" query="documentkey=6530de19dbf01c10527cfae4e29619bc"/>

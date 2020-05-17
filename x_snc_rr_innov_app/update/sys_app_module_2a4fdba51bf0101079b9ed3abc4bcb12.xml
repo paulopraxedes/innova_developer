@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="Innovation">9ba6fa81db845c5036036a3b13961990</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter/>
         <hint/>
@@ -18,9 +19,12 @@
         <query/>
         <report/>
         <roles>x_snc_rr_innov_app.innovation_tasks_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 22:03:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2a4fdba51bf0101079b9ed3abc4bcb12</sys_id>
@@ -29,6 +33,7 @@
         <sys_overrides/>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_app_module_2a4fdba51bf0101079b9ed3abc4bcb12</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

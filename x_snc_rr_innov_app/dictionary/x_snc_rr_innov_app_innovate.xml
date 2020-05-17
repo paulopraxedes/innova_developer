@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" label="Innovate" max_length="40" name="x_snc_rr_innov_app_innovate" sizeclass="6" type="collection">
+    <element audit="true" label="Innovate" max_length="40" name="x_snc_rr_innov_app_innovate" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
         <element label="Expected Decision" max_length="40" name="expected_decision" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="cost" label="Idea type" max_length="40" name="idea_type" type="choice">
@@ -25,6 +25,7 @@
                 <element inactive_on_update="false" label="Desk" sequence="1" value="desk"/>
                 <element inactive_on_update="false" label="Portal" sequence="2" value="portal"/>
                 <element inactive_on_update="false" label="External" sequence="3" value="external"/>
+                <element inactive_on_update="false" label="Mobile" sequence="3" value="mobile"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Decision about Innovation" max_length="40" name="u_decision_innovation" type="string">

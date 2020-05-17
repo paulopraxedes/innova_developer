@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Send a 'POST' request to '/api/now/table/x_snc_rr_innov_app_innov_inbound_ws'</description>
+        <display_name>Send REST Request - Inbound</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Send REST Request - Inbound">e00571a10b3222000b7da95e93673a8f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>03b37d12db781050527cfae4e2961999</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Send REST Request - Inbound</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_03b37d12db781050527cfae4e2961999</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:22:57</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: New case by WS">7f133512db781050527cfae4e296198d</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=03b37d12db781050527cfae4e2961999"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>03b37d12db781050527cfae4e2961999</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>0bb3b152db781050527cfae4e296190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <value>post</value>
+        <variable display_value="">59877da10b3222000b7da95e93673a56</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>03b37d12db781050527cfae4e2961999</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>43b3b152db781050527cfae4e296190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <value>{}</value>
+        <variable display_value="">58408e250b3222000b7da95e93673a5c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>03b37d12db781050527cfae4e2961999</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>47b3b152db781050527cfae4e296190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <value>{"Content-Type":"application/json","Accept":"application/json"}</value>
+        <variable display_value="">cec002650b3222000b7da95e93673aae</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>03b37d12db781050527cfae4e2961999</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>8bb3b152db781050527cfae4e296190b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:22:57</sys_updated_on>
+        <value>90f6fd16db781050527cfae4e2961916</value>
+        <variable display_value="">020a6af09fd32200ef4afa7dc67fcfec</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>03b37d12db781050527cfae4e2961999</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>8fb3b152db781050527cfae4e296190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <value>/api/now/table/x_snc_rr_innov_app_innov_inbound_ws</value>
+        <variable display_value="">50bff9250b3222000b7da95e93673a9b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>03b37d12db781050527cfae4e2961999</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>cbb3b152db781050527cfae4e296190c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:09:23</sys_updated_on>
+        <value>{"u_name":"John AL - Innovation Case ATF - New new external system of records","u_description":"We need a sofiscated system of records, one like ServiceNow","u_idea_type":"process"}</value>
+        <variable display_value="">81e042650b3222000b7da95e93673aa2</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=03b37d12db781050527cfae4e2961999"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>basic_auth</field>
+        <id>03b37d12db781050527cfae4e2961999</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:09:23</sys_created_on>
+        <sys_id>15e33552db781050527cfae4e29619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:09:23</sys_updated_on>
+        <table>var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>end_point</field>
+        <id>03b37d12db781050527cfae4e2961999</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>47b3b152db781050527cfae4e296190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <table>var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>headers</field>
+        <id>03b37d12db781050527cfae4e2961999</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>4bb3b152db781050527cfae4e296190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <table>var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>query_params</field>
+        <id>03b37d12db781050527cfae4e2961999</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>0bb3b152db781050527cfae4e296190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:08:41</sys_updated_on>
+        <table>var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>request_body</field>
+        <id>03b37d12db781050527cfae4e2961999</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-17 22:08:41</sys_created_on>
+        <sys_id>83b3b152db781050527cfae4e296190b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-17 22:09:23</sys_updated_on>
+        <table>var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f</table>
+        <value>{"u_name":"John AL - Innovation Case ATF - New new external system of records","u_description":"We need a sofiscated system of records, one like ServiceNow","u_idea_type":"process"}</value>
+    </sys_element_mapping>
+</record_update>

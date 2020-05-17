@@ -14,11 +14,13 @@
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>servicenow.rafael</sys_created_by>
         <sys_created_on>2020-05-14 01:48:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ba2fb949db30d810527cfae4e29619e6</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Generate Inbound Email</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_atf_step_ba2fb949db30d810527cfae4e29619e6</sys_update_name>
         <sys_updated_by>servicenow.rafael</sys_updated_by>

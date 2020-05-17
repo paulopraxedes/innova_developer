@@ -115,6 +115,7 @@ x_snc_rr_innov_app.angular-chart.js = (function() {
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>servicenow.rafael</sys_created_by>
         <sys_created_on>2020-05-14 01:02:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="sys_ui_script">sys_ui_script</sys_db_object>
         <sys_id>18df951dcb95452f915e7d5a0d95dcf9</sys_id>
         <sys_metadata>9c74714ddbfc9810527cfae4e296198c</sys_metadata>
@@ -123,6 +124,7 @@ x_snc_rr_innov_app.angular-chart.js = (function() {
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_parent/>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
         <sys_update_name>sys_ui_script_9c74714ddbfc9810527cfae4e296198c</sys_update_name>

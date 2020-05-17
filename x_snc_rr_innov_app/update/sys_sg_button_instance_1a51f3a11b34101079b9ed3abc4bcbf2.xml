@@ -15,16 +15,17 @@
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 23:22:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1a51f3a11b34101079b9ed3abc4bcbf2</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>New Case</sys_name>
         <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
         <sys_update_name>sys_sg_button_instance_1a51f3a11b34101079b9ed3abc4bcbf2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-05-15 23:34:02</sys_updated_on>
         <table>x_snc_rr_innov_app_innovate</table>
     </sys_sg_button_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=1a51f3a11b34101079b9ed3abc4bcbf2"/>
 </record_update>
