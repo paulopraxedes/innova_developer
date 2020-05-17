@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_contact_type" table="x_snc_rr_innov_app_innovate" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>0</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-11 11:55:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cdde094db74d410527cfae4e2961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-11 11:55:22</sys_updated_on>
+            <value>email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desk</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>1</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-11 11:55:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60dde094db74d410527cfae4e2961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-11 11:55:22</sys_updated_on>
+            <value>desk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portal</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>2</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-11 11:55:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecdde094db74d410527cfae4e2961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-11 11:55:22</sys_updated_on>
+            <value>portal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>External</label>
+            <language>en</language>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sequence>3</sequence>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-11 11:55:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6cdde094db74d410527cfae4e2961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-11 11:55:22</sys_updated_on>
+            <value>external</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_contact_type</element>
+            <name>x_snc_rr_innov_app_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>servicenow.rafael</sys_created_by>
+            <sys_created_on>2020-05-11 11:55:22</sys_created_on>
+            <sys_id>01cd87a91bb0101079b9ed3abc4bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_contact_type</sys_name>
+            <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rr_innov_app_innovate_u_contact_type</sys_update_name>
+            <sys_updated_by>servicenow.rafael</sys_updated_by>
+            <sys_updated_on>2020-05-11 11:55:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

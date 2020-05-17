@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Cost Saving Cases Item Stream">121173a11b34101079b9ed3abc4bcbf3</item_stream>
+        <master_item display_value="Cost Saving Cases Master Item">de11b3a11b34101079b9ed3abc4bcb01</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 23:20:58</sys_created_on>
+        <sys_id>6211b3a11b34101079b9ed3abc4bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_6211b3a11b34101079b9ed3abc4bcb09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 23:20:58</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

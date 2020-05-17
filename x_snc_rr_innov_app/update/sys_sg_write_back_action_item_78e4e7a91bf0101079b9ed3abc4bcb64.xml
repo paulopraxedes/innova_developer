@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New innovation task</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 22:28:05</sys_created_on>
+        <sys_id>78e4e7a91bf0101079b9ed3abc4bcb64</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New innovation task</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_78e4e7a91bf0101079b9ed3abc4bcb64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 22:50:05</sys_updated_on>
+        <table>x_snc_rr_innov_app_innovation_tasks</table>
+        <template>assignment_group=97a2ce60db7c1810527cfae4e29619d1^short_description={{Short description}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=78e4e7a91bf0101079b9ed3abc4bcb64"/>
+</record_update>

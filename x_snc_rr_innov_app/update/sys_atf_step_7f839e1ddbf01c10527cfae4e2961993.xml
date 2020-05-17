@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <display_name>Get Innovation Number</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Get Innovation Number">6530de19dbf01c10527cfae4e29619bc</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 21:53:59</sys_created_on>
+        <sys_id>7f839e1ddbf01c10527cfae4e2961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Innovation Number</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_7f839e1ddbf01c10527cfae4e2961993</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 21:53:59</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: New Case Open By Email">8aee7d09db30d810527cfae4e29619cf</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=7f839e1ddbf01c10527cfae4e2961993"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>7f839e1ddbf01c10527cfae4e2961993</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 21:53:59</sys_created_on>
+        <sys_id>e293de1ddbf01c10527cfae4e2961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 21:53:59</sys_updated_on>
+        <value/>
+        <variable display_value="">b8929ad9dbf01c10527cfae4e29619a0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=7f839e1ddbf01c10527cfae4e2961993"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>u_innovation</field>
+        <id>7f839e1ddbf01c10527cfae4e2961993</id>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 21:53:59</sys_created_on>
+        <sys_id>6e93de1ddbf01c10527cfae4e2961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 21:53:59</sys_updated_on>
+        <table>var__m_atf_input_variable_6530de19dbf01c10527cfae4e29619bc</table>
+        <value>{{step['ba2fb949db30d810527cfae4e29619e6'].output_email_record}}</value>
+    </sys_element_mapping>
+</record_update>

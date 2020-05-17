@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <display_name>Create email.read event - global</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="">86896289dbf0d810527cfae4e296190e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 04:53:53</sys_created_on>
+        <sys_id>a01ae2c9dbf0d810527cfae4e2961942</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create email.read event - global</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_atf_step_a01ae2c9dbf0d810527cfae4e2961942</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 22:09:55</sys_updated_on>
+        <table/>
+        <test display_value="Innovation: New Case Open By Email">8aee7d09db30d810527cfae4e29619cf</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=a01ae2c9dbf0d810527cfae4e2961942"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a01ae2c9dbf0d810527cfae4e2961942</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 04:53:53</sys_created_on>
+        <sys_id>7b1a26c9dbf0d810527cfae4e2961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 04:53:53</sys_updated_on>
+        <value/>
+        <variable display_value="">85a9aa89dbf0d810527cfae4e2961928</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e69663a213701700cabb3192e144b006</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="IBM" name="IBM">9125ef2213701700cabb3192e144b007</group>
+        <inherits>true</inherits>
+        <role display_value="pps_resource" name="pps_resource">8cd72e3193f3220064f572edb67ffb42</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 16:24:25</sys_created_on>
+        <sys_id>e69663a213701700cabb3192e144b006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 16:24:25</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-12 12:53:15</sys_created_on>
+        <sys_id>8aa4ce24db7c1810527cfae4e2961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-03-15 09:24:25</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_metadata_link_8aa4ce24db7c1810527cfae4e2961958</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-12 12:53:15</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

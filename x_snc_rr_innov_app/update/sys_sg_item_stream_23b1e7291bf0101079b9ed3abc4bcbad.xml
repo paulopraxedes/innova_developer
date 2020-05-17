@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="All innovation tasks">0f8123291bf0101079b9ed3abc4bcb9d</data_item>
+        <interleaved_field/>
+        <name>Innovation tasks Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 22:13:52</sys_created_on>
+        <sys_id>23b1e7291bf0101079b9ed3abc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovation tasks Item Stream</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_sg_item_stream_23b1e7291bf0101079b9ed3abc4bcbad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 22:13:52</sys_updated_on>
+        <table>x_snc_rr_innov_app_innovation_tasks</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="DELETE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_snc_rr_innov_app.angular-chart.js</name>
+        <script><![CDATA[var x_snc_rr_innov_app = x_snc_rr_innov_app || {};
+
+x_snc_rr_innov_app.angular-chart.js = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_snc_rr_innov_app.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_snc_rr_innov_app.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "angular-chart.js"
+	};
+})();
+]]></script>
+        <script_name>angular-chart.js</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:02:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9c74714ddbfc9810527cfae4e296198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_rr_innov_app.angular-chart.js</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_update_name>sys_ui_script_9c74714ddbfc9810527cfae4e296198c</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:02:36</sys_updated_on>
+        <ui_type>10</ui_type>
+        <use_scoped_format>true</use_scoped_format>
+    </sys_ui_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</application>
+        <file_path/>
+        <instance_id>ff754588dbf0fa00a4e1fba8bf9619c2</instance_id>
+        <instance_name>itomramos</instance_name>
+        <name>sys_ui_script_9c74714ddbfc9810527cfae4e296198c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;name&gt;x_snc_rr_innov_app.angular-chart.js&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var x_snc_rr_innov_app = x_snc_rr_innov_app || {};
+
+x_snc_rr_innov_app.angular-chart.js = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_snc_rr_innov_app.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_snc_rr_innov_app.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "angular-chart.js"
+	};
+})();
+]]&gt;&lt;/script&gt;&lt;script_name&gt;angular-chart.js&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;servicenow.rafael&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-14 01:02:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;9c74714ddbfc9810527cfae4e296198c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_snc_rr_innov_app.angular-chart.js&lt;/sys_name&gt;&lt;sys_package display_value="Innovate App" source="x_snc_rr_innov_app"&gt;7d44728ddb445c5036036a3b1396197e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Innovate App"&gt;7d44728ddb445c5036036a3b1396197e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_9c74714ddbfc9810527cfae4e296198c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;servicenow.rafael&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-14 01:02:36&lt;/sys_updated_on&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;use_scoped_format&gt;true&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1940690224</payload_hash>
+        <record_name>x_snc_rr_innov_app.angular-chart.js</record_name>
+        <reverted_from/>
+        <source>514386a0db7c1810527cfae4e29619d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:02:36</sys_created_on>
+        <sys_id>7725fd4ddbfc9810527cfae4e296196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17210b462d70000001</sys_recorded_at>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:02:36</sys_updated_on>
+        <type>UI Script</type>
+        <update_guid>7f25fd4d03fc98109764351e4afa546c</update_guid>
+        <update_guid_history>7f25fd4d03fc98109764351e4afa546c:1940690224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-05-14 01:02:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_script">sys_ui_script</sys_db_object>
+        <sys_id>18df951dcb95452f915e7d5a0d95dcf9</sys_id>
+        <sys_metadata>9c74714ddbfc9810527cfae4e296198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_rr_innov_app.angular-chart.js</sys_name>
+        <sys_package display_value="Innovate App" source="x_snc_rr_innov_app">7d44728ddb445c5036036a3b1396197e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Innovate App">7d44728ddb445c5036036a3b1396197e</sys_scope>
+        <sys_scope_delete display_value="">ac1f138cff494f0499bc5ef07f372d90</sys_scope_delete>
+        <sys_update_name>sys_ui_script_9c74714ddbfc9810527cfae4e296198c</sys_update_name>
+        <sys_update_version display_value="sys_ui_script_9c74714ddbfc9810527cfae4e296198c">7725fd4ddbfc9810527cfae4e296196d</sys_update_version>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-05-14 01:02:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
