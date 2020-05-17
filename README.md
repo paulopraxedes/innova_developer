@@ -1,4 +1,6 @@
 # innova_developer
+Full training for Source Control: https://developer.servicenow.com/dev.do#!/learn/learning-plans/orlando/servicenow_application_developer/app_store_learnv2_devenvironment_orlando_source_control_objectives
+
 
 1. Fork this project and then import it to your SN instance (if you don't have it, request one on Developer site)
 2. To import this project as application
